@@ -1,6 +1,7 @@
 <h1>Yoda Webpage</h1> 
 
 My first webpage built with HTML/CSS/Javascript implementing skills that I have learnt. 
+I will be updating this webpage with new features as I progress in my learning path and will be building more and more products.
 
 <h2>Why Yoda?</h2>
 Programming needs persistence and motivation to keep on going. Skills of Jedi warriors could be very useful 
