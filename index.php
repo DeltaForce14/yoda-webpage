@@ -1,0 +1,1 @@
+<?php header ('Location: /clever_website.html'); ?>
